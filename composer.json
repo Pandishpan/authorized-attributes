@@ -15,11 +15,11 @@
         }
     ],
     "require": {
-        "illuminate/auth": "6.x",
-        "illuminate/support": "6.x"
+        "illuminate/auth": "10.*",
+        "illuminate/support": "10.*"
     },
     "require-dev": {
-        "orchestra/testbench": "4.x"
+        "orchestra/testbench": "8.*"
     },
     "autoload": {
         "psr-4": {
