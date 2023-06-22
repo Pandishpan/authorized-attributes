@@ -1,17 +1,25 @@
 {
-    "name": "vantage/authorized-attributes",
-    "description": "Authorized Model Attributes for Laravel",
+    "name": "pandishpan/authorized-attributes",
+    "description": "Authorized Model Attributes for Laravel with Model Policies",
     "license": "MIT",
     "keywords": [
         "laravel",
         "attributes",
         "authorization",
-        "hidden"
+        "hidden",
+        "model policies",
+        "policy-based attribute hiding",
+        "attribute visibility",
+        "Laravel package"
     ],
     "authors": [
         {
             "name": "Jari Pekkala",
             "email": "jari@vantage.fi"
+        },
+        {
+            "name": "Bogdan Culita",
+            "email": "culitabogdan@gmail.com"
         }
     ],
     "require": {
